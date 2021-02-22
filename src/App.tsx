@@ -7,7 +7,7 @@ function App() {
       <h1>Hello NLW</h1>
       <Button color="blue">Azul</Button>
       <Button color="orangered">Laranja</Button>
-      <Button color="lightgreen">Verde claro</Button>
+      <Button color="green">Verde</Button>
     </div>
   );
 }
